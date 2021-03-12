@@ -150,12 +150,12 @@ ul.pagination li.current a:hover, ul.pagination li.current a:focus { background:
 }
 
 /*** Profile Slider ***/
-#profile-slider { background: url(../images/loading.gif) center center no-repeat; /*height: 416px;*/ }
+#profile-slider { background: url(https://1.bp.blogspot.com/-HMQP03UvApY/YEtzn6XO7LI/AAAAAAAAAqM/pcwkiDsPeMk-NNPCebYvQeijxIQ-RbBEQCLcBGAsYHQ/s0/loading.gif) center center no-repeat; /*height: 416px;*/ }
 #profile-slider img { display: none; border: none; }
 #profile-slider.orbit { background: none; }
 #profile-slider.orbit img { display: block; }
 #profile-slider.orbit .big-profile-image {border: 10px solid #fff; }
-.profile-slider-wrapp { background: url(../images/hearts_bg.png) 45px 30px no-repeat; padding-top: 30px; }
+.profile-slider-wrapp { background: url(https://1.bp.blogspot.com/-xHLw74xj9zg/YEtz9UJHUiI/AAAAAAAAAqU/GJGPF1JS-a07R6PNnrmGNF-jA_GEEY1mACLcBGAsYHQ/s0/hearts_bg.png) 45px 30px no-repeat; padding-top: 30px; }
 .profile-slider-wrapp ul.orbit-bullets { position: absolute; z-index: 30; list-style: none; bottom: -20px; left: 50%; margin-left: -50px; padding: 0; }
 .profile-slider-wrapp ul.orbit-bullets li.has-thumb { width: 60px; height: 60px; margin: 0 10px; -webkit-border-radius: 50%; -moz-border-radius: 50%; -ms-border-radius: 50%; -o-border-radius: 50%; border-radius: 50%; }
 .profile-slider-wrapp ul.orbit-bullets li.active.has-thumb { border: 2px solid #fff; }
@@ -169,7 +169,7 @@ ul.pagination li.current a:hover, ul.pagination li.current a:focus { background:
 .callout-speech-wrapp cite { font-size: 1.25em; color: #0095c2; text-align: center; display: block; }
 .callout-speech { position: relative; padding:20px; text-align:center; color:#fff; background:#2ba6cb; margin-bottom: 40px;
 		-webkit-border-radius: 22px; -moz-border-radius: 22px; -ms-border-radius: 22px; -o-border-radius: 22px; border-radius:22px; }
-.callout-speech:after {content:"\00a0"; background: url(../images/callout_corner.png) no-repeat; position: absolute; width: 46px; height: 28px; bottom: -28px; left: 50%; margin-left: -23px; }
+.callout-speech:after {content:"\00a0"; background: url(https://1.bp.blogspot.com/-uy3uBk5UxOw/YEt0IRRQ6dI/AAAAAAAAAqY/Nebi_MXfR_onV9UiF1l0pygqoT13_DrDwCLcBGAsYHQ/s0/callout_corner.png) no-repeat; position: absolute; width: 46px; height: 28px; bottom: -28px; left: 50%; margin-left: -23px; }
 
 /*** Profile Carousel Gallery ***/
 .btn-carousel { padding-top: 40px; }
@@ -337,7 +337,7 @@ ul.accordion > li{ border-top: none;  margin-bottom: 8px; }
 /* -----------------------------------------
    07. Search Page
 ----------------------------------------- */
-#search-bar { padding-top:10px; background: #f8f8f8 url(../images/patterns/gray_pattern.gif); }
+#search-bar { padding-top:10px; background: #f8f8f8 url(https://1.bp.blogspot.com/-1BSEXdeo6V0/YEt0Xb1DA2I/AAAAAAAAAqg/bMkofJBFdQkumSlb0mLs1RWtsMZ0nZrgQCLcBGAsYHQ/s0/gray_pattern.gif); }
 .search-result h2 { font-family: 'Yesteryear', cursive; font-size: 46px; color: #000; }
 .search-list { margin: 0 0 40px; display: inline-block; }
 .search-item { border: 1px solid #e5e5e5; list-style: none; text-align: center; margin-top: 100px; }
@@ -410,7 +410,7 @@ only screen and (        min-device-pixel-ratio: 2),
 only screen and (                min-resolution: 192dpi),
 only screen and (                min-resolution: 2dppx) {
 	
-	.profile-slider-wrapp { background-image: url('../images/hearts_bg@2x.png'); }
+	.profile-slider-wrapp { background-image: url('https://1.bp.blogspot.com/-K1quUSVUoLs/YEt0kzMyyZI/AAAAAAAAAqo/WcvAduzr3NQvxye0BqcUhPs5tH19NTx_ACLcBGAsYHQ/s0/hearts_bg%25402x.png'); }
 }
  
  
